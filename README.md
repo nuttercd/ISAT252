@@ -1,2 +1,2 @@
 # ISAT252
-JMU Sophmore ISAT Coding Class
+JMU Sophomore ISAT Coding Class
