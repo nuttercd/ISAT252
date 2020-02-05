@@ -8,4 +8,7 @@ for (var i = 0; i < 100; i++){
     else if (i % 5 == 0){
         console.log("Buzz");
     }
+    else{
+        console.log(i);
+    }
 }
